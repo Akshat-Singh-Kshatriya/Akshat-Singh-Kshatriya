@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshat Singh Kshatriya
 - 👀 I’m interested in Finance, Machine Learning and Data Science 
-- 🌱 I’m currently pursuing Mechanical Engineering from BITS PILANI, Pilani Campus 
+- 🌱 I’m currently pursuing Mechanical Engineering from Birla Institute of Technology & Science, Pilani
 - 💞️ I’m looking to collaborate on Finance, ML and DS projects 
 - 📫 Contact me: akshatsinghkshatriya@gmail.com
 - ⚡ Fun fact: I’m a mechanical engineer who’s more fascinated by financial models than assembling machines!
